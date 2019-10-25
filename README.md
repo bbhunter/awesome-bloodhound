@@ -1,7 +1,7 @@
 # awesome-bloodhound
 A curated list of awesome Bloodhound resources
 
-![Bloodhound](https://i.imgur.com/RHn4vn5.png)
+![Bloodhound](bh.png)
 
 This list is for links to learn and use the awesome Active Directory reconnaissance tool Bloodhound. It will for the most part consist of tools available on Github, videos demonstrating the tools, blog posts and wikis.
 
